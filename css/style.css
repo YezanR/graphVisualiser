@@ -1,0 +1,20 @@
+
+#debug-info
+{
+    position: absolute;
+    left: 50;
+    top: 50;
+    color: red;
+    display: none;
+}
+
+.properties
+{
+    border: 1px solid gray;
+    border-radius: 2px;
+    height:400px;
+}
+
+.navbar-nav li a:hover {
+    cursor: pointer;
+}
